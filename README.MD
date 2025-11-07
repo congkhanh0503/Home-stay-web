@@ -29,9 +29,32 @@ Hệ thống Đặt phòng Homestay được xây dựng nhằm hỗ trợ quả
 ## 🚀 3. Hình ảnh các chức năng
 ### Trang đăng nhập
 <img width="1892" height="886" alt="Image" src="https://github.com/user-attachments/assets/b6ea078d-24f0-4f2b-92ac-fc4cef3713f3" />
+### Trang đăng ký
+<img width="1893" height="995" alt="Image" src="https://github.com/user-attachments/assets/586e09de-55af-4bad-9233-5743b130981e" />
+### Trang quên mật khẩu
+<img width="1877" height="681" alt="Image" src="https://github.com/user-attachments/assets/2c3a1464-35f2-43b1-9f06-ab2807a948b7" />
 ### Trang dashboard admin
-
-
+<img width="1889" height="999" alt="Image" src="https://github.com/user-attachments/assets/8857983b-a7c7-4cd7-9f13-e8972c5d9b3d" />
+### Trang quản lí người dùng
+<img width="1872" height="1006" alt="Image" src="https://github.com/user-attachments/assets/402752ee-643b-477a-9fdc-87d51f6b56f3" />
+### Trang dashboard host
+<img width="1900" height="996" alt="Image" src="https://github.com/user-attachments/assets/8f117d6b-db32-4c1e-8b9d-7bf4035dbea1" />
+### Trang quản lí homestay
+<img width="1897" height="987" alt="Image" src="https://github.com/user-attachments/assets/d6e5883d-1c2a-4433-85db-3ad296523295" />
+### Trang quản lí đơn đặt
+<img width="1883" height="990" alt="Image" src="https://github.com/user-attachments/assets/bdf3b3cf-4c60-49fa-aa13-b1312271b520" />
+### Trang thêm homestay
+<img width="1898" height="987" alt="Image" src="https://github.com/user-attachments/assets/b38860be-078d-44d9-b0c9-973c18bc4c34" />
+### Trang quản lí doanh thu
+<img width="1902" height="988" alt="Image" src="https://github.com/user-attachments/assets/cd7c6d17-5be5-4ed8-9c9e-03144f46d06e" />
+### Trang đơn đặt của tôi
+<img width="1874" height="938" alt="Image" src="https://github.com/user-attachments/assets/296374d2-28f0-401f-86d2-60c199bb2738" />
+### Trang tìm kiếm homestay
+<img width="1907" height="994" alt="Image" src="https://github.com/user-attachments/assets/71604670-afb6-4c31-b943-6d00687174e9" />
+### Trang chi tết homestay
+<img width="1891" height="996" alt="Image" src="https://github.com/user-attachments/assets/000e8e61-291e-4db9-bdfa-c398d2afafd4" />
+### Trang thông tin cá nhân
+<img width="1875" height="953" alt="Image" src="https://github.com/user-attachments/assets/28edd17a-76f7-457f-9e1d-fc7312601747" />
 ## ⚙️ 4. Cài đặt
 
 ### 4.1. Cài đặt công cụ, môi trường và các thư viện cần thiết
@@ -107,6 +130,7 @@ Quản lý đặt phòng
 
 Phân quyền người dùng
     
+
 
 
 
