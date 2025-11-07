@@ -49,9 +49,7 @@ Clone project về thư mục `htdocs` của XAMPP (ví dụ ổ C):
 
 ```bash
 cd C:\xampp\htdocs
-https://github.com/tyanzuq2811/BTL_Quan_ly_doan_vien.git
-Truy cập project qua đường dẫn:
-👉 http://localhost/authentication_login.
+https://github.com/congkhanh0503/Home-stay-web.git
 ```
 ### 4.3. Setup database
 Mở XAMPP Control Panel, Start Apache và MySQL
@@ -109,4 +107,5 @@ Quản lý đặt phòng
 
 Phân quyền người dùng
     
+
 
