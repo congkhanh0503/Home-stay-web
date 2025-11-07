@@ -28,7 +28,7 @@ Hệ thống Đặt phòng Homestay được xây dựng nhằm hỗ trợ quả
 
 ## 🚀 3. Hình ảnh các chức năng
 ### Trang đăng nhập
-
+<img width="1892" height="886" alt="Image" src="https://github.com/user-attachments/assets/b6ea078d-24f0-4f2b-92ac-fc4cef3713f3" />
 ### Trang dashboard admin
 
 
@@ -107,5 +107,6 @@ Quản lý đặt phòng
 
 Phân quyền người dùng
     
+
 
 
